@@ -1,0 +1,22 @@
+{
+  "name": "CWN Batches Portal",
+  "short_name": "CWN Batches",
+  "description": "CWN Official Batches Portal",
+  "start_url": "/cwn-batches/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#764ba2",
+  "theme_color": "#764ba2",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/764ba2/ffffff?text=CWN",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/764ba2/ffffff?text=CWN",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
